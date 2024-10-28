@@ -20,8 +20,9 @@ This Repo will walk through some details about what we learned in Devops course 
   </ul>
   <li>Knative</li>
 </ul>
+
 ## Summarizing Blogs
-This Section will explain the blog I have written in a summarized way.
+
 ### Blog 1: The New Horizon: Exploring Podman’s Container Evolution
 
 ### Blog 2: Pulumi: Turn Complex Infrastructure into Code with Ease
