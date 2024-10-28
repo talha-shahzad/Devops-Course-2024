@@ -6,6 +6,8 @@ This Repo will walk through some details about what we learned in Devops course 
   <li>Docker</li>
   <li>Podman</li>
   <li>Kubernetes</li>
+  <li>Ingress</li>
+  <li>Istio</li>
   <li>ECS/EKS</li>
   <li>Infrastructure as code</li>
   <ul>
