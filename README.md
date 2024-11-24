@@ -30,6 +30,8 @@ In the reign of Devops, Docker plays a vital role in managing, running and maint
 Infrastructure as code is a technique of writing code for provisioning of infrastructure on cloud. This makes the provisioning, maintaining and automating the infrastructure such EKS and EC2 by providing programmatic configuration files. Terraform and Pulumi are two big names in this region. Terraform is created by Hashicorp and uses Hashicorp configuration language (HCL) which is easily understandable. It uses terraform init, terraform plan and terraform apply in sequence for setting the whole process. On the other hand pulumi uses common programming language for writing configuration files. This saves time of learning a new language. Pulumi utilizes the cloud for storing state, hence the secret is saved on cloud in an encrypted form. It is in the same language as the application so it can be embedded in the code for easy testing and also can be reused utilizing classes and methods.
 
 ### Deployed Resource:
-**DockerHub Link:** https://hub.docker.com/r/talhashahzad0/instaclone
+**DockerHub Link:** [talhashahzad0/instaclone](https://hub.docker.com/r/talhashahzad0/instaclone) 
 <br>
-**Github Link:** https://github.com/talha-shahzad/Djnago-Instagram-Clone
+**Github Link:** [Djnago-Instagram-Clone](https://github.com/talha-shahzad/Djnago-Instagram-Clone)
+<br>
+**Blog 3 Link:** [guide-to-setup-minikube-for-kubernetes](https://medium.com/@i210540/guide-to-setup-minikube-for-kubernetes-b383cb644b08)
